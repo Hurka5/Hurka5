@@ -23,8 +23,10 @@ I value simplicity, efficiency, and practical solutions over unnecessary complex
 
 <div align="center">
 
-![Hurka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hurka5&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hurka5&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Hurka's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hurka5&theme=github_dark)
+
+![Hurka's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hurka5&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hurka5&theme=github_dark)
 
 </div>
 
