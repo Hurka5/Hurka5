@@ -28,9 +28,3 @@ If you like my work, consider buying me a coffee — it keeps the code brewing!
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hurka)
 
 </div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Hurka5&style=flat-square&color=blueviolet" alt="Profile views"/>
-</div>
