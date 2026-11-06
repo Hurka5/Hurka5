@@ -19,19 +19,6 @@ I value simplicity, efficiency, and practical solutions over unnecessary complex
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Hurka's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hurka5&theme=github_dark)
-
-![Hurka's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hurka5&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hurka5&theme=github_dark)
-
-</div>
-
----
-
 <div align="center">
 
 ### ☕ Support Me
